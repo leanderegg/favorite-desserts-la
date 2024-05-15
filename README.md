@@ -6,3 +6,7 @@ list of fav desserts as a demo of github/git functionality
 - Ryan, **Helados Mexican Popsicle- Walnut**
 - Adelaide, **icecream**
 - Clara, **strawberries**
+
+
+
+I love conflict
